@@ -35,11 +35,11 @@ if (isset($_SESSION['user_id'])) {
                 <li><a href="#contact" class="page-scroll">Contactanos</a></li>
                 <li><a href="planes.php" class="page-scroll">Planes</a></li>
                 <?PHP
-                if (empty($_SESSION['email'])) {
+                if (empty($_SESSION['user_id'])) {
                     echo '<li><a class="getstarted scrollto" href="loginmenu.php">¡Ingresar!</a></li>';
                 } else {
 
-                    echo '<li><a class="getstarted scrollto" href="loginmenu.php">Cuenta</a></li>';
+                    echo "<li><a class='getstarted scrollto' href='loginmenu.php'>".$user['email']."</a></li>";
                 }
                 ?>
             </ul>
