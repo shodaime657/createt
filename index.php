@@ -153,7 +153,7 @@ require_once("layout/header.php");
         </div>
     </div>
 </div>
-<!-- Gallery Section -->
+<!-- Cursos destacados -->
 <div id="portfolio">
     <div class="container">
         <div class="section-title">
@@ -163,7 +163,7 @@ require_once("layout/header.php");
             <div class="portfolio-items">
                 <div class="col-sm-6 col-md-4 col-lg-4">
                     <div class="portfolio-item">
-                        <div class="hover-bg"><a href="https://youtu.be/8krW_NGyLjQ" title="Project Title"
+                        <div class="hover-bg"><a href="https://youtu.be/yaBaOB3Kwtk" title="Project Title"
                                                  data-lightbox-gallery="gallery1">
                                 <div class="hover-text">
                                     <h4>Lorem Ipsum</h4>
@@ -173,7 +173,7 @@ require_once("layout/header.php");
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-4">
                     <div class="portfolio-item">
-                        <div class="hover-bg"><a href="https://youtu.be/CJaoHAlzZtI" title="Project Title"
+                        <div class="hover-bg"><a href="https://youtu.be/CFIkdvL8B0E" title="Project Title"
                                                  data-lightbox-gallery="gallery1">
                                 <div class="hover-text">
                                     <h4>Adipiscing Elit</h4>
@@ -183,7 +183,7 @@ require_once("layout/header.php");
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-4">
                     <div class="portfolio-item">
-                        <div class="hover-bg"><a href="https://youtu.be/2kJBJYEJPVg" title="Project Title"
+                        <div class="hover-bg"><a href="https://youtu.be/yaBaOB3Kwtk" title="Project Title"
                                                  data-lightbox-gallery="gallery1">
                                 <div class="hover-text">
                                     <h4>Lorem Ipsum</h4>
@@ -193,7 +193,7 @@ require_once("layout/header.php");
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-4">
                     <div class="portfolio-item">
-                        <div class="hover-bg"><a href="https://youtu.be/FMGQIFKLv0Q" title="Project Title"
+                        <div class="hover-bg"><a href="https://youtu.be/CFIkdvL8B0E" title="Project Title"
                                                  data-lightbox-gallery="gallery1">
                                 <div class="hover-text">
                                     <h4>Lorem Ipsum</h4>
@@ -203,7 +203,7 @@ require_once("layout/header.php");
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-4">
                     <div class="portfolio-item">
-                        <div class="hover-bg"><a href="https://youtu.be/vVaqXLcNvIM" title="Project Title"
+                        <div class="hover-bg"><a href="https://youtu.be/yaBaOB3Kwtk" title="Project Title"
                                                  data-lightbox-gallery="gallery1">
                                 <div class="hover-text">
                                     <h4>Adipiscing Elit</h4>
@@ -213,7 +213,7 @@ require_once("layout/header.php");
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-4">
                     <div class="portfolio-item">
-                        <div class="hover-bg"><a href="https://youtu.be/mm_RDhSYBvM" title="Project Title"
+                        <div class="hover-bg"><a href="https://youtu.be/CFIkdvL8B0E" title="Project Title"
                                                  data-lightbox-gallery="gallery1">
                                 <div class="hover-text">
                                     <h4>Dolor Sit</h4>
@@ -233,7 +233,7 @@ require_once("layout/header.php");
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-4">
                     <div class="portfolio-item">
-                        <div class="hover-bg"><a href="https://youtu.be/BoZ0Zwab6Oc" title="Project Title"
+                        <div class="hover-bg"><a href="https://youtu.be/CFIkdvL8B0E" title="Project Title"
                                                  data-lightbox-gallery="gallery1">
                                 <div class="hover-text">
                                     <h4>Lorem Ipsum</h4>
@@ -243,7 +243,7 @@ require_once("layout/header.php");
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-4">
                     <div class="portfolio-item">
-                        <div class="hover-bg"><a href="https://youtu.be/79qlHOxPw7I?t=11" title="Project Title"
+                        <div class="hover-bg"><a href="https://youtu.be/CFIkdvL8B0E" title="Project Title"
                                                  data-lightbox-gallery="gallery1">
                                 <div class="hover-text">
                                     <h4>Adipiscing Elit</h4>
@@ -257,7 +257,7 @@ require_once("layout/header.php");
 </div>
 <!-- Testimonials Section -->
 
-<!-- Contact Section -->
+<!-- Contacto Section -->
 <div id="contact">
     <div class="container">
         <div class="col-md-8">
