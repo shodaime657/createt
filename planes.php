@@ -65,7 +65,7 @@ require_once("layout/header.php");
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="section-headline text-center">
-                    <h2>Pricing Table</h2>
+                    <h2>Tabla de Precios</h2>
                 </div>
             </div>
         </div>
